@@ -1,6 +1,6 @@
 # RTL Source Files
 
-This directory contains the Register Transfer Level (RTL) implementation of **The Infinite Vault – Multi-Phase FSM Security System**. The design is written in **Verilog HDL** and developed using **Xilinx Vivado**.
+This directory contains the Register Transfer Level (RTL) implementation of **The Infinite Vault – Multi-Phase FSM Security System**. The design is written in **Verilog HDL** and developed.
 
 ## Module Description
 
